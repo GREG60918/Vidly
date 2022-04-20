@@ -1,0 +1,676 @@
+{"level":"error","message":"Something failed miserably! Something failed miserably!","stack":"Error: Something failed miserably!\n    at Object.<anonymous> (C:\\Users\\gregc\\vidly\\index.js:37:26)\n    at Module._compile (internal/modules/cjs/loader.js:1137:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)\n    at Module.load (internal/modules/cjs/loader.js:985:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:878:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)\n    at internal/main/run_main_module.js:17:47"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to MongoDB...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Could not get genres","metadata":{},"level":"error"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Could not get genres","metadata":{},"level":"error"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"invalidId\" at path \"_id\" for model \"Genre\"","metadata":{"stringValue":"\"invalidId\"","kind":"ObjectId","value":"invalidId","path":"_id","reason":{}},"level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"mongoose is not defined","metadata":{},"level":"error"}
+{"message":"mongoose is not defined","metadata":{},"level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"mongoose is not defined","metadata":{},"level":"error"}
+{"message":"mongoose is not defined","metadata":{},"level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Genre validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5).","metadata":{"errors":{"name":{"name":"ValidatorError","message":"Path `name` (`1234`) is shorter than the minimum allowed length (5).","properties":{"message":"Path `name` (`1234`) is shorter than the minimum allowed length (5).","type":"minlength","minlength":5,"path":"name","value":"1234"},"kind":"minlength","path":"name","value":"1234"}},"_message":"Genre validation failed","message":"Genre validation failed: name: Path `name` (`1234`) is shorter than the minimum allowed length (5)."},"level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","metadata":{"errors":{"name":{"name":"ValidatorError","message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","properties":{"message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","type":"maxlength","maxlength":50,"path":"name","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"},"kind":"maxlength","path":"name","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}},"_message":"Genre validation failed","message":"Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50)."},"level":"error"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 0...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 0...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 0...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 0...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 0...","level":"info"}
+{"message":"Listening on port 0...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 0...","level":"info"}
+{"message":"Listening on port 0...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Cast to ObjectId failed for value \"invalidId\" at path \"_id\" for model \"Genre\"","metadata":{"stringValue":"\"invalidId\"","kind":"ObjectId","value":"invalidId","path":"_id","reason":{}},"level":"error"}
+{"message":"Cast to ObjectId failed for value \"invalidId\" at path \"_id\" for model \"Genre\"","metadata":{"stringValue":"\"invalidId\"","kind":"ObjectId","value":"invalidId","path":"_id","reason":{}},"level":"error"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Rental validation failed: dateReturned: Cast to date failed for value \"[Function: now]\" at path \"dateReturned\"","metadata":{"errors":{"dateReturned":{"stringValue":"\"[Function: now]\"","kind":"date","path":"dateReturned","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}}},"_message":"Rental validation failed","message":"Rental validation failed: dateReturned: Cast to date failed for value \"[Function: now]\" at path \"dateReturned\""},"level":"error"}
+{"message":"Rental validation failed: dateReturned: Cast to date failed for value \"[Function: now]\" at path \"dateReturned\"","metadata":{"errors":{"dateReturned":{"stringValue":"\"[Function: now]\"","kind":"date","path":"dateReturned","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}}},"_message":"Rental validation failed","message":"Rental validation failed: dateReturned: Cast to date failed for value \"[Function: now]\" at path \"dateReturned\""},"level":"error"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Rental validation failed: dateReturned: Cast to date failed for value \"[Function: now]\" at path \"dateReturned\"","metadata":{"errors":{"dateReturned":{"stringValue":"\"[Function: now]\"","kind":"date","path":"dateReturned","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}}},"_message":"Rental validation failed","message":"Rental validation failed: dateReturned: Cast to date failed for value \"[Function: now]\" at path \"dateReturned\""},"level":"error"}
+{"message":"Rental validation failed: dateReturned: Cast to date failed for value \"[Function: now]\" at path \"dateReturned\"","metadata":{"errors":{"dateReturned":{"stringValue":"\"[Function: now]\"","kind":"date","path":"dateReturned","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="}}},"_message":"Rental validation failed","message":"Rental validation failed: dateReturned: Cast to date failed for value \"[Function: now]\" at path \"dateReturned\""},"level":"error"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"rental is not defined","metadata":{},"level":"error"}
+{"message":"rental is not defined","metadata":{},"level":"error"}
+{"message":"rental is not defined","metadata":{},"level":"error"}
+{"message":"rental is not defined","metadata":{},"level":"error"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"rental is not defined","metadata":{},"level":"error"}
+{"message":"rental is not defined","metadata":{},"level":"error"}
+{"message":"rental is not defined","metadata":{},"level":"error"}
+{"message":"rental is not defined","metadata":{},"level":"error"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"req is not defined","metadata":{},"level":"error"}
+{"message":"req is not defined","metadata":{},"level":"error"}
+{"message":"req is not defined","metadata":{},"level":"error"}
+{"message":"req is not defined","metadata":{},"level":"error"}
+{"message":"req is not defined","metadata":{},"level":"error"}
+{"message":"req is not defined","metadata":{},"level":"error"}
+{"message":"req is not defined","metadata":{},"level":"error"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"moment is not defined","metadata":{},"level":"error"}
+{"message":"moment is not defined","metadata":{},"level":"error"}
+{"message":"moment is not defined","metadata":{},"level":"error"}
+{"message":"moment is not defined","metadata":{},"level":"error"}
+{"message":"moment is not defined","metadata":{},"level":"error"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"res.status.send is not a function","metadata":{},"level":"error"}
+{"message":"res.status.send is not a function","metadata":{},"level":"error"}
+{"message":"res.status.send is not a function","metadata":{},"level":"error"}
+{"message":"res.status.send is not a function","metadata":{},"level":"error"}
+{"message":"res.status.send is not a function","metadata":{},"level":"error"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly_tests...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
+{"message":"Listening on port 3000...","level":"info"}
+{"message":"Connected to mongodb://localhost/vidly...","level":"info"}
